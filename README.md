@@ -1,5 +1,9 @@
 # GSambaMonitor
 
+<p align="center">
+  <img src=".github/logo.png" alt="mono-gtk-gsambamonitor logo" width="128" />
+</p>
+
 A Mono GTK# window that monitors Samba activity.
 
 ## What it does
